@@ -1,0 +1,17 @@
+[
+    {
+        "id" : 1,
+        "task": "belajar mvc",
+        "status": true
+    },
+    {
+        "id": 2,
+        "task" : " belajar javascript",
+        "status": false
+    },
+    {
+        "id":3,
+        "task": "belajar oop",
+        "status":true
+    }
+]
