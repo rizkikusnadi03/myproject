@@ -7,12 +7,6 @@ const controller = require('./controller/controller_todo')
 
 switch (command){
    case 'read':
-    // console.log ("command read");
-    // const fs = require ('fs');
-    // let data = fs.readFileSync('./data.json','utf8');
-    // let todos = JSON.parse(data);
-    // console.log(todos);
-    // console.log(controller);
     controller.read();
     break;
 case 'add':
